@@ -2,7 +2,7 @@
 
 ## 📥 Descargar mods
 
-[📥 DESCARGAR MODS DE CEDILAND](https://github.com/axelsv06/CEDILAND-RESOURCES/raw/refs/heads/main/CEDILAND-RESOURCES.rar)
+[📥 DESCARGAR ARCHIVOS DE CEDILAND](https://github.com/axelsv06/CEDILAND-RESOURCES/raw/refs/heads/main/CEDILAND-RESOURCES.rar)
 
 ### ⚙️ Versión
 - Minecraft: **1.21.4**
