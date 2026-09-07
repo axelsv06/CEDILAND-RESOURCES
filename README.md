@@ -2,7 +2,7 @@
 
 ## 📥 Descargar mods
 
-[📥 DESCARGAR MODS DE CEDILAND](https://raw.githubusercontent.com/TU-USUARIO/TU-REPOSITORIO/main/CEDILAND-MODS.rar)
+[📥 DESCARGAR MODS DE CEDILAND](https://raw.githubusercontent.com/TU-USUARIO/TU-REPOSITORIO/main/CEDILAND-RESOURCES.rar)
 
 ### ⚙️ Versión
 - Minecraft: **1.21.4**
