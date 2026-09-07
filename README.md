@@ -2,7 +2,7 @@
 
 ## 📥 Descargar mods
 
-👉 **[DESCARGAR MODS DE CEDILAND](./CEDILAND-MODS.rar)**
+👉 **[DESCARGAR MODS DE CEDILAND](./CEDILAND-RESOURCES.rar)**
 
 ### ⚙️ Versión
 - Minecraft: **1.21.4**
