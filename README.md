@@ -15,7 +15,7 @@ Antes de entrar al servidor necesitas:
 * 📦 Los mods incluidos en este repositorio
 * 💻 Minecraft Java Edition
 
-> ⚠️ **Importante:** Todos los jugadores deben utilizar las mismas versiones de Minecraft, NeoForge y los mods para evitar errores de compatibilidad.
+ ⚠️ **Importante:** Todos los jugadores deben utilizar las mismas versiones de Minecraft, NeoForge y los mods para evitar errores de compatibilidad.
 
 ---
 
