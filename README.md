@@ -1,5 +1,17 @@
 # 🌎 CEDILAND
 
+## 📥 Descargar mods
+
+👉 **[DESCARGAR MODS DE CEDILAND](./CEDILAND-MODS.rar)**
+
+### ⚙️ Versión
+- Minecraft: **1.21.4**
+- NeoForge: **26.2**
+
+Descarga el archivo `.rar`, extráelo y coloca todos los archivos `.jar` en tu carpeta:
+
+`%appdata%\.minecraft\mods`
+
 ¡Bienvenido a **CEDILAND**! 🎮
 
 Este repositorio contiene todo lo necesario para instalar los **mods y archivos requeridos** para jugar en el servidor de Minecraft **CEDILAND**.
